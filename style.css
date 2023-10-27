@@ -18,8 +18,13 @@ p {
 header {
   background: white;
   border-bottom: 8px solid #999999;
-  padding-top: 96px;
   padding-bottom: 16px;
+}
+
+.intro-chunk {
+  padding-top: 96px;
+  padding-left: 24px;
+  padding-right: 24px;
 }
 
 header p {
